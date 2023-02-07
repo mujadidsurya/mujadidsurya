@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujadidsurya&label=Profile%20views&color=0e75b6&style=flat" alt="mujadidsurya" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Data Analyst, Machine Learning**
+- 🌱 I’m currently learning **Data Science, Data Analyst, and Machine Learning**
 
 - 📝 I regularly write articles on [https://projeksainsdata.com/](https://projeksainsdata.com/)
 
-- 💬 Ask me about **Pyton, SQL, R**
+- 💬 Ask me about **Python, SQL, R**
 
 - 📫 How to reach me **mujadidsurya@gmail.com**
 
