@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&width=1000&height=52&lines=Hi+There!!+Happy+To+Meet+You.+I'm+Balqis)
 <h1 align="center">Hi 👋, I'm Mujadid Choirus Surya</h1>
 <h3 align="center">I am a Data Science Student at the Sumatra Institute of Technology</h3>
 
