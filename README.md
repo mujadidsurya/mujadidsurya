@@ -2,7 +2,7 @@
 
 <h2 align="center">I am a Data Science Student at the Sumatra Institute of Technology</h2>
 
-<img align="left"><img src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611c4d3b681f6aa6e0224c17625393a1bd4197893c8&rid=giphy.gif&ct=g"/></p>
+<img align="right"><img src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611c4d3b681f6aa6e0224c17625393a1bd4197893c8&rid=giphy.gif&ct=g"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujadidsurya&label=Profile%20views&color=0e75b6&style=flat" alt="mujadidsurya" /> </p>
 
 - 🌱 I’m currently learning **Data Science, Data Analyst, and Machine Learning**
