@@ -17,7 +17,7 @@
 <a href="https://kaggle.com/mujadid choirus surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mujadid choirus surya" height="30" width="40" /></a>
 <a href="https://instagram.com/mujadidchrss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mujadidchrss" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mujadidsurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mujadidsurya" height="30" width="40" /></a>
-<a href="https://discord.gg/Nadh#2215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nadh#2215" height="30" width="40" /></a>
+<a href="https://discord.gg/Nadh#2215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2215" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
