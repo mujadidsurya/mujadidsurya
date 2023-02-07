@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mujadid Choirus Surya</h1>
 <h3 align="center">I am a Data Science Student at the Sumatra Institute of Technology</h3>
 
